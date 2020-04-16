@@ -1,0 +1,4 @@
+# Referenced at /Users/hardik_react/Desktop/Kartavya/temp/Study4buddy/android/app/build/intermediates/merged_manifests/release/AndroidManifest.xml:58
+-keep class androidx.core.app.CoreComponentFactory { <init>(); }
+# Referenced at /Users/hardik_react/Desktop/Kartavya/temp/Study4buddy/android/app/build/intermediates/merged_manifests/release/AndroidManifest.xml:58
+-keep class com.test.MainApplication { <init>(); }

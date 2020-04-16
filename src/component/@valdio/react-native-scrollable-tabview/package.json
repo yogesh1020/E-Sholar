@@ -1,0 +1,60 @@
+{
+  "_from": "@valdio/react-native-scrollable-tabview@^0.8.12",
+  "_id": "@valdio/react-native-scrollable-tabview@0.8.12",
+  "_inBundle": false,
+  "_integrity": "sha512-4aYnb7lA4Mo7+U2xijbKwJ7jcphBJs0ILVlvqa+SB9jg1sy1M+CkcNHwUTTnK60lCFXLCseJmECtu/JRR8ZpzA==",
+  "_location": "/@valdio/react-native-scrollable-tabview",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "@valdio/react-native-scrollable-tabview@^0.8.12",
+    "name": "@valdio/react-native-scrollable-tabview",
+    "escapedName": "@valdio%2freact-native-scrollable-tabview",
+    "scope": "@valdio",
+    "rawSpec": "^0.8.12",
+    "saveSpec": null,
+    "fetchSpec": "^0.8.12"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/@valdio/react-native-scrollable-tabview/-/react-native-scrollable-tabview-0.8.12.tgz",
+  "_shasum": "be3b28387459e4055d1b191ada98b98d3b496ca1",
+  "_spec": "@valdio/react-native-scrollable-tabview@^0.8.12",
+  "_where": "/Users/hardik_react/Desktop/Kartavya/temp/test",
+  "author": {
+    "name": "Valdio Veliu",
+    "email": "Valdio Veliu"
+  },
+  "bugs": {
+    "url": "https://github.com/valdio/react-native-scrollable-tabview/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {},
+  "deprecated": false,
+  "description": "## Add it to your project",
+  "devDependencies": {},
+  "homepage": "https://github.com/valdio/react-native-scrollable-tabview#readme",
+  "keywords": [
+    "react-native-component",
+    "react-component",
+    "react-native",
+    "ios",
+    "tab",
+    "scrollable"
+  ],
+  "license": "MIT",
+  "main": "lib/index.js",
+  "name": "@valdio/react-native-scrollable-tabview",
+  "peerDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/valdio/react-native-scrollable-tabview.git"
+  },
+  "scripts": {
+    "lint": "eslint -c .eslintrc . --ignore-path .gitignore",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.8.12"
+}
